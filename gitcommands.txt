@@ -1,0 +1,61 @@
+Git Bash Commands
+--------------------------------------------
+git config --global user.name "Mitt användarnamn"
+
+git config --global user.email "Min Email adress"
+
+ls
+
+cd desktop
+
+cd Inl1PeterIhm
+
+notepad .gitignore
+*~
+.classpath
+*.class
+.project
+target
+.settings
+.DS_Store
+MANIFEST.MF
+.idea
+*.iml
+*.jar
+bin
+//Sparade
+
+git add .gitignore
+
+git commit -m "Added .gitignore"
+
+git push -u origin master
+
+git add Guesser.java
+
+git commit -m "Added thirst-third"
+
+git push -u origin master
+
+//Gjorde första tre uppgifterna av coden
+//använde ett annat program för att coda men ändrade mig sen
+//bytte till Eclipse istället och tog bort det gamla
+
+git add //Guesser
+
+git commit -m "Added thirst-third Assignment"
+
+git push -u origin master
+
+git pull 
+//den ville att jag skulle pull-a först
+
+git add //Guesser
+
+git commit -m "Added Add Assignments"
+//Gjorde lite fel skulle stå "Added Last Assigments"
+
+git push -u origin master
+
+
+

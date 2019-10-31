@@ -1,0 +1,13 @@
+När använder man ​add​ respektive ​commit​?
+- add använder du för att lägga till filer till en commit 
+- en Commit är som en samling av alla filer som kan sedan användas för att pusha
+
+Vad är ​pull​ repektive ​push​?
+-pull är att hämta ner senaste uppdateringar på sitt connectade repo
+-push använder man för att skicka upp filer till sitt connectade repo
+
+När använder man ​log​ respektive ​status​?
+-för att kolla om man har någonting att pusha
+
+Hur kan man formulera sig i sina commit-meddelanden?
+-Kort och förklarande. Vilka filer man har laddat upp/ändringar man gjorde
